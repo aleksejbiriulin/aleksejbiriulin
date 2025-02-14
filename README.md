@@ -29,12 +29,22 @@
 На данный момент я делал следующтие проекты (RaymanPython это мой первый гитхаб акаунт)
 
 https://github.com/RaymanPython/Geogebra_python.git телеграм бота  для знакмоств на python на библиотеке aiogram.  (python, async, SQL, loguru)
+
 https://github.com/RaymanPython/ServerBooks.git Геогебра с бащовымм набором инструментов написанная на python
+
 https://github.com/RaymanPython/telegram_bot_byki_korovy_flask_site.git телеграм бот для игры в быки и коровы между любдьми 
+
 https://github.com/RaymanPython/math_type.git класс комплесных чисел
+
 https://github.com/RaymanPython/RaymanDjump.git андроид игра на python (kivy)
+
 https://github.com/RaymanPython/LDA_model.git LDA модель делал задания для сттудента по ML.
+
 https://github.com/RaymanPython/ML_Yandex.git Алгоритмы  ML c которые я писалнау курсе яндекса
+
 https://github.com/RaymanPython/nb_telegrambot_parser.git телеграм бот с парсиногом сайта (тутя  научился доставать данные из сайтов когда просто прочитать html не поулчается)
+
 https://github.com/RaymanPython/ServerBooks.git Сайт на Flask в котором можно хранить статьи.
+
 https://github.com/RaymanPython/RaymanPlatformer.git приятный платформер написанный на pygame
+
