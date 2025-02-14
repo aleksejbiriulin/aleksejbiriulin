@@ -28,6 +28,14 @@
 
 На данный момент я делал следующие проекты (RaymanPython это мой первый гитхаб акаунт)
 
+https://github.com/AmirHusnutdinov/Phystech.edu.git ппроект моей омканды FoodHelper
+
+https://github.com/aleksejbiriulin/SeleniumExamples.git статья которую пишу на хабре про некотрые фишки и динамический парсинг сайтов с помощьюselenium
+
+https://github.com/aleksejbiriulin/KaggleState.git задача сбора стаитиски с кода на пайтон от кернело kaggle
+
+https://github.com/aleksejbiriulin/C-project.git код gui приложения который я писал со студентом на C#.
+
 https://github.com/RaymanPython/Geogebra_python.git телеграм бота  для знакмоств на python на библиотеке aiogram.  (python, async, SQL, loguru)
 
 https://github.com/RaymanPython/ServerBooks.git Геогебра с бащовымм набором инструментов написанная на python
