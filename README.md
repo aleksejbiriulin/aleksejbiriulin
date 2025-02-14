@@ -26,7 +26,7 @@
 
 Закончил два курса яндекс лиеця с отлием.
 
-На данный момент я делал следующтие проекты (RaymanPython это мой первый гитхаб акаунт)
+На данный момент я делал следующие проекты (RaymanPython это мой первый гитхаб акаунт)
 
 https://github.com/RaymanPython/Geogebra_python.git телеграм бота  для знакмоств на python на библиотеке aiogram.  (python, async, SQL, loguru)
 
