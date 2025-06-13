@@ -2,7 +2,7 @@
 
 Разработчик C/C++. Учусь с 2024 года в МФТИ ВШПИ. Работаю на С/C++ в SDLsoft
 
-Стек python, C/C++ django (разбирался с в django4), flask. redic, celery, fastapi, SDL графическая оболочка, opengl.
+Стек python, C/C++, WINapi, django (разбирался с в django4), flask. redic, celery, fastapi, SDL графическая оболочка, opengl.
 
 Олимпиадник, хорошо знаю алгоритмы.
 
