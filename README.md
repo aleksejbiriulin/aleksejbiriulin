@@ -1,12 +1,12 @@
 # Алексей Борисович Бирюлин
 **C/C++ Developer | МФТИ ВШПИ (бакалавриат)**  
 📍 Moscow, Russia  
-📧 [your.email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [LeetCode](https://leetcode.com/yourprofile)  
+📧 [aleksej.biriulin@yandex.ru]  
+🔗 [LeetCode](https://leetcode.com/yourprofile)  
 
 ## 🛠 Технический стек
 **Языки:**  
-`C++` `C` `Python` `C#` `GLSL`
+`C++` `C` `Python` `GLSL`
 
 **Графика & GameDev:**  
 `OpenGL` `CUDA` `DirectX` `Pygame` `Kivy` `WinAPI`
@@ -50,19 +50,16 @@
 [![RaymanPlatformer](https://img.shields.io/badge/-RaymanPlatformer-181717?logo=github)](https://github.com/RaymanPython/RaymanPlatformer)  
 Платформер на Pygame с procedural generation уровней
 
-[![3D-Renderer](https://img.shields.io/badge/-3D_Renderer-008000)]()  
-Воксельный рендерер на C++/OpenGL (коммерческий проект)
-
 ### Веб & Боты
 [![FoodHelper](https://img.shields.io/badge/-Phystech.edu-181717?logo=github)](https://github.com/AmirHusnutdinov/Phystech.edu)  
-Сервис рекомендаций еды (Django + ML)
+Сервис по спорт питанию (Flask)
 
-[![Telegram-Bot](https://img.shields.io/badge/-Geogebra-181717?logo=github)](https://github.com/RaymanPython/Geogebra_python)  
+[![Geogebra](https://img.shields.io/badge/-Geogebra-181717?logo=github)](https://github.com/RaymanPython/Geogebra_python)  
 Бот для знакомств с 5k+ пользователей (aiogram + PostgreSQL)
 
 ### Data Science
 [![KaggleStats](https://img.shields.io/badge/-Kaggle_Stats-181717?logo=github)](https://github.com/aleksejbiriulin/KaggleState)  
-Анализ 10k+ Kaggle ноутбуков (Pandas + Matplotlib)
+Анализ 10k+ Kaggle ноутбуков 
 
 [![ML-Yandex](https://img.shields.io/badge/-ML_Yandex-181717?logo=github)](https://github.com/RaymanPython/ML_Yandex)  
 Реализация алгоритмов ML с нуля
@@ -73,6 +70,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksejbiriulin&layout=compact)
 
 ## 📫 Контакты
-- Telegram: [@yournick](https://t.me/yournick)
-- LinkedIn: [Алексей Бирюлин](https://linkedin.com/in/yourprofile)
-- Почта: your.email@example.com
+- Telegram: [@RaymanDaxter](https://t.me/RaymanDaxter
+- Почта:  aleksej.biriulin@yandex.ru
