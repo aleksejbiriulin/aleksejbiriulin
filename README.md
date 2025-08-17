@@ -6,16 +6,16 @@
 
 ## 🛠 Технический стек
 **Языки:**  
-`C++` `C` `Python` `GLSL`
+`C++` `C` `Python`
 
 **Графика & GameDev:**  
-`OpenGL` `CUDA` `DirectX` `Pygame` `Kivy` `WinAPI`
+`OpenGL` `CUDA` `DirectX` `WinAPI`
 
 **Backend & Web:**  
 `Django4` `Flask` `FastAPI` `Celery` `Redis` `REST API`
 
 **Data Science:**  
-`Pandas` `NumPy` `Scikit-learn` `LDA` `Kaggle`
+`Pandas` `NumPy` `Scikit-learn` `LDA` 
 
 **Базы данных:**  
 `PostgreSQL` `SQLite` `Django ORM` `SQLAlchemy`
@@ -26,15 +26,12 @@
 ## 💼 Опыт работы
 ### **SDLsoft** | C++ Developer
 `2024 - настоящее время`  
-- Разработка 3D-рендерера для Windows-приложений
-- Оптимизация графического пайплайна с использованием OpenGL
-- Реализация физического движка на CUDA
-
+- Разработка CАПР под Windows-приложений, с нуля без использования готового 3Д движка.
+- 
 ### **Profy.ru** | Преподаватель программирования
-`2022 - 2024`  
-- Провел 500+ часов менторства по C/C++
-- Подготовил 12 студентов к поступлению в магистратуру (ИТМО, МИФИ)
-- Разработал авторскую методику преподавания алгоритмов
+`2024 - 2025`  
+- Провел 500+ часов менторства по C/C++, Алгоритмам.
+- 
 
 ## 🎓 Образование
 ### **МФТИ (ВШПИ)**
@@ -43,19 +40,18 @@
 
 ### **Яндекс Лицей**
 `2020 - 2022` С отличием  
-Топ-5% выпускников
 
 ## 🏆 Проекты
-### Графика & GameDev
-[![RaymanPlatformer](https://img.shields.io/badge/-RaymanPlatformer-181717?logo=github)](https://github.com/RaymanPython/RaymanPlatformer)  
-Платформер на Pygame с procedural generation уровней
-
 ### Веб & Боты
 [![FoodHelper](https://img.shields.io/badge/-Phystech.edu-181717?logo=github)](https://github.com/AmirHusnutdinov/Phystech.edu)  
-Сервис по спорт питанию (Flask)
+Сервис по спорт питанию (Flask), пректный практикум МФТИ (для работы в командах).
 
-[![Geogebra](https://img.shields.io/badge/-Geogebra-181717?logo=github)](https://github.com/RaymanPython/Geogebra_python)  
 Бот для знакомств с 5k+ пользователей (aiogram + PostgreSQL)
+### Графика & GameDev
+[![Geogebra](https://img.shields.io/badge/-Geogebra-181717?logo=github)](https://github.com/RaymanPython/Geogebra_python)  
+Мини геогебра
+[![RaymanPlatformer](https://img.shields.io/badge/-RaymanPlatformer-181717?logo=github)](https://github.com/RaymanPython/RaymanPlatformer)  
+Платформер на Pygame с procedural generation уровней
 
 ### Data Science
 [![KaggleStats](https://img.shields.io/badge/-Kaggle_Stats-181717?logo=github)](https://github.com/aleksejbiriulin/KaggleState)  
